@@ -1,7 +1,7 @@
 # Genetic similarity among 178 disease phenotypes predicts therapeutic and side effects for 1,711 drugs
 
 ## Panagiotis N. Lalagkas & Rachel D. Melamed
-Link to the [pre-print](https://www.medrxiv.org/content/10.1101/2025.05.13.25327511v1).
+Link to the [preprint](https://www.medrxiv.org/content/10.1101/2025.05.13.25327511v1).
 
 This repository contains the data and source code used in the analyses for the above manuscript. The repository is organized as follows:
 - [data](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/data) includes data required to reproduce the analyses. When raw data cannot be publicly shared, we provide either a summary version or processed outputs.
