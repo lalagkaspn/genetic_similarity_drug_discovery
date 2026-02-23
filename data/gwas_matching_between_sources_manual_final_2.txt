@@ -1,0 +1,179 @@
+mesh_id	mesh_name	trait_category	ldsc_magma	smultixcan	opentargets	mr_coloc_pqtl_2020	mr_coloc_pqtl_2024	lava
+D001289	Attention Deficit Disorder with Hyperactivity	nervous system disease	3		GCST010649		Attention deficit and hyperactivity disorder	ADHD2023
+D001008	Anxiety Disorders	nervous system disease	6	Anxiety disorders	GCST009838		Anxiety/panic attacks	
+D013313	"Stress Disorders, Post-Traumatic"	nervous system disease	14		GCST009315_4			
+D000856	Anorexia Nervosa	nervous system disease	17		GCST008465			
+D015228	Hypertriglyceridemia	metabolic disease	72		GCST90018975	Triglycerides || id:302	Triglycerides	TG_72
+D003324	Coronary Artery Disease	cardiovascular disease	108	Coronary Artery Disease	GCST010866	Coronary heart disease || id:7	Coronary artery disease	CAD_3925
+D009765	Obesity	metabolic disease	120	Obesity	SAIGE_278_1		Body fat mass	
+D020177	Idiopathic Hypersomnia	nervous system disease	1175		FINNGEN_R6_F5_HYPERSOMNIA			
+D010300	Parkinson Disease	nervous system disease	1187	"Non-cancer illness code, self-reported: parkinsons disease"	GCST004902		Parkinson's disease	
+D013771	Tetralogy of Fallot	cardiovascular disease	1188		GCST001807			
+D001172	"Arthritis, Rheumatoid"	musculoskeletal or connective tissue disease	1203	Rheumatoid Arthritis	GCST90013534	Rheumatoid arthritis || id:833	Rheumatoid arthritis	RA_1203
+D003424	Crohn Disease	gastrointestinal disease	2029		GCST004132	Crohn's disease || id:12	Crohn's disease	CD_68
+D003093	"Colitis, Ulcerative"	gastrointestinal disease	2030		GCST004133	Ulcerative colitis || id:970	Ulcerative colitis	UC_69
+D015212	Inflammatory Bowel Diseases	gastrointestinal disease	2031	Inflammatory Bowel Disease	GCST004131	Inflammatory bowel disease || id:294	Inflammatory bowel disease	
+D002761	Cholangitis	cell proliferation disorder	2034		GCST90061442	Primary sclerosing cholangitis  || id:1112	Primary sclerosing cholangitis	
+D017098	IgA Deficiency	immune system disease	2037		GCST003814			
+D008268	Macular Degeneration	disease of visual system	2052	"Non-cancer illness code, self-reported: macular degeneration"	NEALE2_20002_1528			
+D034381	Hearing Loss	nervous system disease	3313		GCST90018857			
+D014012	Tinnitus	disease of ear	3399		FINNGEN_R6_H8_TINNITUS			
+D000505	Alopecia	integumentary system disease	3500		GCST007038			
+D019226	Oral Ulcer	gastrointestinal disease	3544		GCST007839			
+D000787	Angina Pectoris	cardiovascular disease	3550	"Non-cancer illness code, self-reported: angina"	GCST90018793	Vascular/heart problems diagnosed by doctor: Angina || id:UKB-a:436		
+D065631	"Rhinitis, Allergic"	respiratory or thoracic disease	3553	"Non-cancer illness code, self-reported: hayfever/allergic rhinitis"	GCST006409		Hayfever/allergic rhinitis	
+D001249	Asthma	respiratory or thoracic disease	3599	"Non-cancer illness code, self-reported: asthma"	GCST010043	Non-cancer illness code  self-reported: asthma || id:UKB-a:66	Asthma	Asthma_3552
+D005764	Gastroesophageal Reflux	gastrointestinal disease	3600	Diagnoses - main ICD10: K21 Gastro-oesophageal reflux disease	GCST90000514			
+D007037	Hypothyroidism	endocrine system disease	3602		GCST90018862	Non-cancer illness code  self-reported: hypothyroidism/myxoedema || id:UKB-a:77	Hypothyroidism/myxoedema	Hypothyroid_3685
+D008881	Migraine Disorders	cardiovascular disease	3603	"Non-cancer illness code, self-reported: migraine"	GCST003720		Migraine	
+D004485	Eczema	integumentary system disease	3606	Eczema	GCST90044763	Eczema || id:996	Eczema	
+D006937	Hypercholesterolemia	metabolic disease	3608	"Non-cancer illness code, self-reported: high cholesterol"	GCST90038690	"Non-cancer illness code  self-reported: high cholesterol || id:UKB-a:108,Total cholesterol || id:301"	Total cholesterol levels	TC_73
+D012626	Sebaceous Gland Neoplasms	cell proliferation disorder	3658		SAIGE_706			
+D001943	Breast Neoplasms	cell proliferation disorder	3659	Breast Cancer	GCST90011804			
+D002280	"Carcinoma, Basal Cell"	cell proliferation disorder	3660	"Cancer code, self-reported: basal cell carcinoma"	GCST008871		Basal cell carcinoma	
+D000230	Adenocarcinoma	cell proliferation disorder	3661		GCST003326		Lung adenocarcinoma	
+D002386	Cataract	disease of visual system	3667	"Non-cancer illness code, self-reported: cataract"	GCST90018814			
+D006552	"Hernia, Inguinal"	gastrointestinal disease	3671	Diagnoses - main ICD10: K40 Inguinal hernia	GCST90018868			
+D012005	Rectal Prolapse	gastrointestinal disease	3674		NEALE2_20002_1603			
+D014029	Tobacco Use Disorder	nervous system disease	3689		SAIGE_318		Cigarettes per day	Smoking_3235
+D009203	Myocardial Infarction	cardiovascular disease	3693	Myocardial infarction	GCST011365	Myocardial infarction || id:798		
+D005756	Gastritis	gastrointestinal disease	3697	"Non-cancer illness code, self-reported: stomach disorder"	NEALE2_20002_1135			
+D006548	"Hernia, Diaphragmatic"	respiratory or thoracic disease	3698	"Non-cancer illness code, self-reported: hiatus hernia"	SAIGE_550_2			
+D000076385	Diverticular Diseases	gastrointestinal disease	3699		GCST008105			
+D007319	Sleep Initiation and Maintenance Disorders	nervous system disease	3786	"Non-cancer illness code, self-reported: insomnia"	NEALE2_1200			Insomnia_3232
+D009290	Narcolepsy	nervous system disease	3790	Sleeping too much	NEALE2_1220			
+D003922	"Diabetes Mellitus, Type 1"	pancreas disease	3820		GCST90014023		Type 1 diabetes	
+D002446	Celiac Disease	gastrointestinal disease	3821		GCST009874		Celiac disease	
+D008105	"Liver Cirrhosis, Biliary"	cell proliferation disorder	3822		GCST90018826			
+D014820	Vitiligo	integumentary system disease	3832		GCST004785			
+D009798	Ocular Hypertension	cardiovascular disease	3905		GCST006412			
+D009447	Neuroblastoma	cell proliferation disorder	3947		GCST001660			
+D012559	Schizophrenia	nervous system disease	3982	Schizophrenia	GCST90020095	Schizophrenia || id:22	Schizophrenia	SCZ
+D000690	Amyotrophic Lateral Sclerosis	nervous system disease	4010		GCST90027164		Amyotrophic lateral sclerosis (ALS)	ALS
+D008180	"Lupus Erythematosus, Systemic"	immune system disease	4018	Systemic Lupus Erythematosus	GCST011956		Systemic lupus erythematosus	Lupus_4018
+D000437	Alcoholism	nervous system disease	4027		GCST010545		Drinks per week	Alcohol_3261
+D000067877	Autism Spectrum Disorder	nervous system disease	4037		NEALE2_20544_14		Autism spectrum disorder	ASD
+D001714	Bipolar Disorder	nervous system disease	4039	Diagnoses - main ICD10: F31 Bipolar affective disorder	GCST90020094		Bipolar disorder	BD
+D009771	Obsessive-Compulsive Disorder	nervous system disease	4042		NEALE2_20544_7			
+D003924	"Diabetes Mellitus, Type 2"	pancreas disease	4086		GCST010557		Type 2 diabetes	T2D_4045
+D000544	Alzheimer Disease	nervous system disease	4094		GCST90044699	Alzheimer's disease || id:297	Alzheimer's disease	
+D004827	Epilepsy	nervous system disease	4156	"Non-cancer illness code, self-reported: epilepsy"	GCST90027898		Epilepsy (focal)	
+D005901	Glaucoma	disease of visual system	4169	"Non-cancer illness code, self-reported: glaucoma"	GCST90011770	Eye problems/disorders: Glaucoma || id:UKB-a:424	Glaucoma	
+D051436	"Renal Insufficiency, Chronic"	urinary system disease	4209		GCST008064		Chronic kidney disease	
+D013167	"Spondylitis, Ankylosing"	musculoskeletal or connective tissue disease	4263		GCST005529			
+D003863	Depression	nervous system disease	4293	"Non-cancer illness code, self-reported: depression"	GCST007342	Non-cancer illness code  self-reported: depression || id:UKB-a:81		Depression_4293
+D010003	Osteoarthritis	musculoskeletal or connective tissue disease	4307	"Non-cancer illness code, self-reported: osteoarthritis"	GCST90034520		Osteoarthritis	
+D000419	Albuminuria	urinary system disease	4357		GCST007719		Microalbuminuria	
+D001281	Atrial Fibrillation	cardiovascular disease	4361	"Non-cancer illness code, self-reported: atrial fibrillation"	GCST006414		Atrial fibrillation	AF
+D006973	Hypertension	cardiovascular disease	4378	"Non-cancer illness code, self-reported: hypertension"	GCST90038604	Non-cancer illness code  self-reported: hypertension || id:UKB-a:61	Hypertension	Hypertension_3691
+D006327	Heart Block	cardiovascular disease		AV-block	FINNGEN_R6_I9_AVBLOCK			
+D055623	"Keratosis, Actinic"	cell proliferation disorder		Actinic keratosis	FINNGEN_R6_L12_ACTINKERA			
+D001991	Bronchitis	respiratory or thoracic disease		Bronchitis	GCST90018824			
+D008175	Lung Neoplasms	cell proliferation disorder	2019	"Cancer code, self-reported: lung cancer"	GCST004748		Lung cancer	
+D008545	Melanoma	cell proliferation disorder		"Cancer code, self-reported: malignant melanoma"	GCST010304	Cancer code  self-reported: malignant melanoma || id:UKB-a:58	Malignant melanoma	
+D008228	"Lymphoma, Non-Hodgkin"	cell proliferation disorder		"Cancer code, self-reported: non-hodgkins lymphoma"	GCST90011819			
+D002294	"Carcinoma, Squamous Cell"	cell proliferation disorder	2021	"Cancer code, self-reported: squamous cell carcinoma"	GCST010148	Squamous cell lung cancer || id:967	Squamous cell lung cancer	
+D002349	Carpal Tunnel Syndrome	nervous system disease	4276	Carpal tunnel syndrome	GCST90018813	Diagnoses - main ICD10: G56 Mononeuropathies of upper limb || id:UKB-a:528	Carpal tunnel syndrome	
+D016883	Diabetic Ketoacidosis	pancreas disease		Diabetic ketoacidosis	FINNGEN_R6_DM_KETOACIDOSIS			
+D001749	Urinary Bladder Neoplasms	cell proliferation disorder		Diagnoses - main ICD10: C67 Malignant neoplasm of bladder	GCST90011817			
+D007889	Leiomyoma	cell proliferation disorder		Diagnoses - main ICD10: D25 Leiomyoma of uterus	FINNGEN_R6_CD2_BENIGN_LEIOMYOMA_UTERI			
+D018798	"Anemia, Iron-Deficiency"	blood disorder		Diagnoses - main ICD10: D50 Iron deficiency anaemia	GCST90018872			
+D000380	Agranulocytosis	blood disorder		Diagnoses - main ICD10: D70 Agranulocytosis	FINNGEN_R6_D3_AGRANULOCYTOSIS			
+D012893	Sleep Wake Disorders	nervous system disease		Diagnoses - main ICD10: G47 Sleep disorders	FINNGEN_R6_SLEEP			
+D006429	Hemiplegia	nervous system disease		Diagnoses - main ICD10: G81 Hemiplegia	SAIGE_342			
+D011655	Pulmonary Embolism	cardiovascular disease		Diagnoses - main ICD10: I26 Pulmonary embolism	NEALE2_20002_1093	Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:UKB-a:64	Blood clot in the lung (Pulmonary embolism)	
+D009202	Cardiomyopathies	cardiovascular disease	4350	Diagnoses - main ICD10: I42 Cardiomyopathy	FINNGEN_R6_I9_NONISCHCARDMYOP		Hypertrophic cardiomyopathy	
+D013345	Subarachnoid Hemorrhage	cardiovascular disease		Diagnoses - main ICD10: I60 Subarachnoid haemorrhage	GCST90018923			
+D002543	Cerebral Hemorrhage	cardiovascular disease		Diagnoses - main ICD10: I61 Intracerebral haemorrhage	GCST90018870			
+D002544	Cerebral Infarction	cardiovascular disease		Diagnoses - main ICD10: I63 Cerebral infarction	GCST90080035			
+D050197	Arteriosclerosis	cardiovascular disease		Diagnoses - main ICD10: I70 Atherosclerosis	SAIGE_411_4			
+D010689	Phlebitis	cardiovascular disease		Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis	GCST90080059	Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:UKB-a:537	Phlebitis and thrombophlebitis	
+D006484	Hemorrhoids	cardiovascular disease		Diagnoses - main ICD10: I84 Haemorrhoids	SAIGE_455			
+D007022	Hypotension	cardiovascular disease		Diagnoses - main ICD10: I95 Hypotension	GCST90080083			
+D012852	Sinusitis	respiratory or thoracic disease		Diagnoses - main ICD10: J32 Chronic sinusitis	GCST90018823			
+D010996	Pleural Effusion	respiratory or thoracic disease		"Diagnoses - main ICD10: J90 Pleural effusion, not elsewhere classified"	GCST90080148			
+D011030	Pneumothorax	respiratory or thoracic disease		Diagnoses - main ICD10: J93 Pneumothorax	GCST90018902			
+D014060	Tongue Diseases	gastrointestinal disease		Diagnoses - main ICD10: K14 Diseases of tongue	GCST90080184			
+D004941	Esophagitis	gastrointestinal disease		Diagnoses - main ICD10: K20 Oesophagitis	GCST90080185			
+D013276	Stomach Ulcer	gastrointestinal disease		Diagnoses - main ICD10: K25 Gastric ulcer	GCST90018851			
+D004415	Dyspepsia	gastrointestinal disease		Diagnoses - main ICD10: K30 Dyspepsia	GCST90080209			
+D002769	Cholelithiasis	gastrointestinal disease	3675	Diagnoses - main ICD10: K80 Cholelithiasis	GCST90018819		Cholelithiasis	
+D002764	Cholecystitis	gastrointestinal disease		Diagnoses - main ICD10: K81 Cholecystitis	GCST90018818			
+D010195	Pancreatitis	pancreas disease		Diagnoses - main ICD10: K85 Acute pancreatitis	GCST90018789			
+D008286	Malabsorption Syndromes	gastrointestinal disease		Diagnoses - main ICD10: K90 Intestinal malabsorption	GCST90080315			
+D002481	Cellulitis	musculoskeletal or connective tissue disease		Diagnoses - main ICD10: L03 Cellulitis	GCST90080331			
+D011537	Pruritus	integumentary system disease		Diagnoses - main ICD10: L29 Pruritus	GCST90080344			
+D008010	Lichen Planus	integumentary system disease		Diagnoses - main ICD10: L43 Lichen planus	FINNGEN_R6_L12_LICHENPLANUS			
+D017492	"Keratosis, Seborrheic"	integumentary system disease		Diagnoses - main ICD10: L82 Seborrhoeic keratosis	SAIGE_702_2			
+D011704	Pyelonephritis	urinary system disease		"Diagnoses - main ICD10: N12 Tubulo-interstitial nephritis, not specified as acute or chronic"	GCST90018909			
+D058186	Acute Kidney Injury	urinary system disease		Diagnoses - main ICD10: N17 Acute renal failure	GCST90018790			
+D007676	"Kidney Failure, Chronic"	urinary system disease	195	Diagnoses - main ICD10: N18 Chronic renal failure	GCST90018822			
+D003556	Cystitis	urinary system disease		Diagnoses - main ICD10: N30 Cystitis	GCST90018831			
+D011470	Prostatic Hyperplasia	cell proliferation disorder		Diagnoses - main ICD10: N40 Hyperplasia of prostate	FINNGEN_R6_N14_PROSTHYPERPLA			
+D011472	Prostatitis	urinary system disease		Diagnoses - main ICD10: N41 Inflammatory diseases of prostate	GCST90080620			
+D005348	Fibrocystic Breast Disease	reproductive system or breast disease		Diagnoses - main ICD10: N60 Benign mammary dysplasia	GCST90080638			
+D006177	Gynecomastia	reproductive system or breast disease		Diagnoses - main ICD10: N62 Hypertrophy of breast	FINNGEN_R6_N14_HYPERTROPHYBREAST			
+D004715	Endometriosis	reproductive system or breast disease		Diagnoses - main ICD10: N80 Endometriosis	GCST004549			
+D003680	Deglutition Disorders	gastrointestinal disease		Diagnoses - main ICD10: R13 Dysphagia	GCST90044134			
+D001201	Ascites	gastrointestinal disease		Diagnoses - main ICD10: R18 Ascites	GCST90080807			
+D005076	Exanthema	integumentary system disease		Diagnoses - main ICD10: R21 Rash and other nonspecific skin eruption	GCST90080818			
+D014717	Vertigo	nervous system disease		Diagnoses - main ICD10: R42 Dizziness and giddiness	GCST90085927			
+D013575	Syncope	nervous system disease		Diagnoses - main ICD10: R55 Syncope and collapse	GCST90080880			
+D007766	Lacrimal Apparatus Diseases	disease of visual system		Disorders of lacrimal system	GCST90079876			
+D006471	Gastrointestinal Hemorrhage	gastrointestinal disease		GI-bleeding	SAIGE_578			
+D010437	Peptic Ulcer	gastrointestinal disease		Gastroduodenal ulcer	GCST011504			
+D005921	Glomerulonephritis	urinary system disease		Glomerulonephritis	FINNGEN_R6_GLOMER_NEPHRITIS			
+D006333	Heart Failure	cardiovascular disease	4349	Heart failure	GCST009541		Heart failure	
+D006547	Hernia	musculoskeletal or connective tissue disease		Hernia	FINNGEN_R6_K11_HERNIA			
+D006689	Hodgkin Disease	cell proliferation disorder		Hodgkin lymphoma	GCST007062			
+D008113	Liver Neoplasms	cell proliferation disorder		Malignant neoplasm of liver and intrahepatic bile ducts	FINNGEN_R6_C3_LIVER_INTRAHEPATIC_BILE_DUCTS			
+D010051	Ovarian Neoplasms	cell proliferation disorder	4381	Malignant neoplasm of ovary	GCST004462			
+D011471	Prostatic Neoplasms	cell proliferation disorder	1079	Malignant neoplasm of prostate	GCST011049	"Diagnoses - main ICD10: C61 Malignant neoplasm of prostate || id:UKB-a:520,Cancer code  self-reported: prostate cancer || id:UKB-a:57"		
+D000647	Amnesia	nervous system disease		Memory loss	FINNGEN_R6_MEMLOSS			
+D007951	"Leukemia, Myeloid"	cell proliferation disorder		Diagnoses - main ICD10: C92 Myeloid leukaemia	FINNGEN_R6_CD2_MYELOID_LEUKAEMIA			
+D000152	Acne Vulgaris	integumentary system disease	4395	"Non-cancer illness code, self-reported: acne/acne vulgaris"	GCST90092000			
+D000740	Anemia	blood disorder		"Non-cancer illness code, self-reported: anaemia"	GCST90038678			
+D001064	Appendicitis	gastrointestinal disease		"Non-cancer illness code, self-reported: appendicitis"	FINNGEN_R6_APPENDICITIS_BROAD			
+D003248	Constipation	gastrointestinal disease		"Non-cancer illness code, self-reported: constipation"	GCST90018829			
+D015352	Dry Eye Syndromes	disease of visual system		"Non-cancer illness code, self-reported: dry eyes"	NEALE2_20002_1529			
+D004381	Duodenal Ulcer	gastrointestinal disease		"Non-cancer illness code, self-reported: duodenal ulcer"	SAIGE_531_3			
+D015837	Vestibular Diseases	disease of ear		"Non-cancer illness code, self-reported: ear/vestibular disorder"	SAIGE_386			
+D005705	Gallbladder Diseases	gastrointestinal disease		"Non-cancer illness code, self-reported: gall bladder disease"	GCST90038628			
+D006073	Gout	musculoskeletal or connective tissue disease	207	"Non-cancer illness code, self-reported: gout"	GCST90038687	Non-cancer illness code  self-reported: gout || id:UKB-a:107	Gout	
+D001145	"Arrhythmias, Cardiac"	cardiovascular disease		"Non-cancer illness code, self-reported: heart arrhythmia"	GCST90038611			
+D043183	Irritable Bowel Syndrome	gastrointestinal disease		"Non-cancer illness code, self-reported: irritable bowel syndrome"	GCST90016564			
+D001851	"Bone Diseases, Metabolic"	musculoskeletal or connective tissue disease		"Non-cancer illness code, self-reported: osteopenia"	GCST90077961			
+D010024	Osteoporosis	musculoskeletal or connective tissue disease		"Non-cancer illness code, self-reported: osteoporosis"	GCST90018887		Osteoporosis	
+D009443	Neuritis	nervous system disease		"Non-cancer illness code, self-reported: peripheral neuropathy"	NEALE2_20002_1255			
+D010538	Peritonitis	gastrointestinal disease		"Non-cancer illness code, self-reported: peritonitis"	NEALE2_20002_1190			
+D010998	Pleurisy	respiratory or thoracic disease		"Non-cancer illness code, self-reported: pleurisy"	GCST90018899			
+D011565	Psoriasis	integumentary system disease	1062	"Non-cancer illness code, self-reported: psoriasis"	NEALE2_20002_1453	Non-cancer illness code  self-reported: psoriasis || id:UKB-a:100	Psoriasis	
+D012163	Retinal Detachment	disease of visual system		"Non-cancer illness code, self-reported: retinal detachment"	GCST90018911			
+D012393	Rosacea	integumentary system disease		"Non-cancer illness code, self-reported: rosacea"	NEALE2_20002_1660			
+D006042	Goiter	endocrine system disease		"Non-cancer illness code, self-reported: thyroid goitre"	GCST90018853			
+D002546	"Ischemic Attack, Transient"	cardiovascular disease		"Non-cancer illness code, self-reported: transient ischaemic attack (tia)"	FINNGEN_R6_G6_TIA			
+D000083242	Ischemic Stroke	nervous system disease	1052	STROKE	GCST007248	Ischemic stroke || id:1108	Stroke (any ischemic stroke)	
+D012891	Sleep Apnea Syndromes	respiratory or thoracic disease		Sleep apnoea	GCST90018916			
+D013921	Thrombocytopenia	cardiovascular disease		"Thrombocytopenia, unspecified"	FINNGEN_R6_D3_THROMBOCYTOPENIANAS			
+D015179	Colorectal Neoplasms	cell proliferation disorder	4097		GCST90018808	Diagnoses - main ICD10: D12 Benign neoplasm of colon  rectum  anus and anal canal || id:UKB-a:521		
+D006627	Hirschsprung Disease	gastrointestinal disease			GCST005289	Hirschsprung's disease || id:983	Hirschsprung's disease	
+D013964	Thyroid Neoplasms	cell proliferation disorder			GCST90018929	Thyroid cancer || id:1082	Thyroid cancer	
+D010001	Osteitis Deformans	musculoskeletal or connective tissue disease			GCST001086	Paget's disease || id:975	Paget's disease	
+D007018	Hypopituitarism	endocrine system disease			FINNGEN_R6_E4_HYPOPIT	Non-cancer illness code  self-reported: hypopituitarism || id:UKB-a:98		
+D020246	Venous Thrombosis	cardiovascular disease			GCST90038615	Non-cancer illness code  self-reported: deep venous thrombosis (dvt) || id:UKB-a:65	Blood clot in the leg (Deep venous thrombosis)	
+D000075224	Cardiac Conduction System Disease	cardiovascular disease		Conduction disorders	SAIGE_426			
+D003731	Dental Caries	musculoskeletal or connective tissue disease		Diagnoses - main ICD10: K02 Dental caries	FINNGEN_R6_K11_CARIES_INCLAVO			
+D005242	Fecal Incontinence	gastrointestinal disease		Diagnoses - main ICD10: R15 Faecal incontinence	GCST90080803			
+D016055	Urinary Retention	urinary system disease		Diagnoses - main ICD10: R33 Retention of urine	GCST90080844			
+D011141	Polyuria	urinary system disease		Diagnoses - main ICD10: R35 Polyuria	GCST90080847			
+D007762	Labyrinthitis	disease of ear		Labyrinthitis	GCST90079944			
+D012878	Skin Neoplasms	cell proliferation disorder		Malignant neoplasm of skin	GCST90079101			
+D009260	Nail Diseases	integumentary system disease		Nail disorders	GCST90080357			
+D016491	Peripheral Vascular Diseases	cardiovascular disease		"Non-cancer illness code, self-reported: peripheral vascular disease"	GCST90086133		Peripheral artery disease	
+D011111	Polymyalgia Rheumatica	musculoskeletal or connective tissue disease		"Non-cancer illness code, self-reported: polymyalgia rheumatica"	GCST90080469			
+D013118	Spinal Cord Diseases	nervous system disease		"Non-cancer illness code, self-reported: spinal cord disorder"	NEALE2_20002_1251			
+D014581	Urticaria	integumentary system disease		"Non-cancer illness code, self-reported: urticaria"	GCST90018936			
+D014648	Varicose Veins	cardiovascular disease		"Non-cancer illness code, self-reported: varicose veins"	GCST90018939			
+D010031	Otitis	disease of ear		Otitis externa	SAIGE_381			
+D019966	Substance-Related Disorders	psychiatric disorder		Substance abuse	GCST90081359			
+D015155	"Esophageal Spasm, Diffuse"	gastrointestinal disease		"Non-cancer illness code, self-reported: oesophageal disorder"	NEALE2_20002_1134			

@@ -1,0 +1,179 @@
+mesh_id	mesh_name	trait_category_OpenTargets	trait_area_HRCS	trait_ICD10_top
+D001289	Attention Deficit Disorder with Hyperactivity	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D001008	Anxiety Disorders	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D013313	"Stress Disorders, Post-Traumatic"	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D000856	Anorexia Nervosa	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D015228	Hypertriglyceridemia	metabolic disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D003324	Coronary Artery Disease	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D009765	Obesity	metabolic disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D020177	Idiopathic Hypersomnia	nervous system disease	neurological	Diseases of the nervous system
+D010300	Parkinson Disease	nervous system disease	neurological	Diseases of the nervous system
+D013771	Tetralogy of Fallot	cardiovascular disease	cardiovascular	"Congenital malformations, deformations, chromosomal abnormalities, and genetic disorders"
+D001172	"Arthritis, Rheumatoid"	musculoskeletal or connective tissue disease	inflammatory and immune system	Diseases of the musculoskeletal system and connective tissue
+D003424	Crohn Disease	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D003093	"Colitis, Ulcerative"	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D015212	Inflammatory Bowel Diseases	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D002761	Cholangitis	cell proliferation disorder	infection	Diseases of the digestive system
+D017098	IgA Deficiency	immune system disease	inflammatory and immune system	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D008268	Macular Degeneration	disease of visual system	eye	Diseases of the eye and adnexa
+D034381	Hearing Loss	nervous system disease	ear	Diseases of the ear and mastoid process
+D014012	Tinnitus	disease of ear	ear	Diseases of the ear and mastoid process
+D000505	Alopecia	integumentary system disease	inflammatory and immune system	Diseases of the skin and subcutaneous tissue
+D019226	Oral Ulcer	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D000787	Angina Pectoris	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D065631	"Rhinitis, Allergic"	respiratory or thoracic disease	inflammatory and immune system	Diseases of the respiratory system
+D001249	Asthma	respiratory or thoracic disease	respiratory	Diseases of the respiratory system
+D005764	Gastroesophageal Reflux	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D007037	Hypothyroidism	endocrine system disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D008881	Migraine Disorders	cardiovascular disease	neurological	Diseases of the nervous system
+D004485	Eczema	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D006937	Hypercholesterolemia	metabolic disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D012626	Sebaceous Gland Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D001943	Breast Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D002280	"Carcinoma, Basal Cell"	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D000230	Adenocarcinoma	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D002386	Cataract	disease of visual system	eye	Diseases of the eye and adnexa
+D006552	"Hernia, Inguinal"	gastrointestinal disease	hernia	Diseases of the digestive system
+D012005	Rectal Prolapse	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D014029	Tobacco Use Disorder	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D009203	Myocardial Infarction	cardiovascular disease	blood	Diseases of the circulatory system
+D005756	Gastritis	gastrointestinal disease	infection	Diseases of the digestive system
+D006548	"Hernia, Diaphragmatic"	respiratory or thoracic disease	hernia	Diseases of the digestive system
+D000076385	Diverticular Diseases	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D007319	Sleep Initiation and Maintenance Disorders	nervous system disease	mental health	Diseases of the nervous system
+D009290	Narcolepsy	nervous system disease	neurological	Diseases of the nervous system
+D003922	"Diabetes Mellitus, Type 1"	pancreas disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D002446	Celiac Disease	gastrointestinal disease	inflammatory and immune system	Diseases of the digestive system
+D008105	"Liver Cirrhosis, Biliary"	cell proliferation disorder	oral and gastrointestinal	Diseases of the digestive system
+D014820	Vitiligo	integumentary system disease	skin	Diseases of the ear and mastoid process
+D009798	Ocular Hypertension	cardiovascular disease	cardiovascular	Diseases of the eye and adnexa
+D009447	Neuroblastoma	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D012559	Schizophrenia	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D000690	Amyotrophic Lateral Sclerosis	nervous system disease	neurological	Diseases of the nervous system
+D008180	"Lupus Erythematosus, Systemic"	immune system disease	inflammatory and immune system	Diseases of the musculoskeletal system and connective tissue
+D000437	Alcoholism	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D000067877	Autism Spectrum Disorder	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D001714	Bipolar Disorder	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D009771	Obsessive-Compulsive Disorder	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D003924	"Diabetes Mellitus, Type 2"	pancreas disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D000544	Alzheimer Disease	nervous system disease	neurological	Diseases of the nervous system
+D004827	Epilepsy	nervous system disease	neurological	Diseases of the nervous system
+D005901	Glaucoma	disease of visual system	eye	Diseases of the eye and adnexa
+D051436	"Renal Insufficiency, Chronic"	urinary system disease	renal and urogenital	Diseases of the genitourinary system
+D013167	"Spondylitis, Ankylosing"	musculoskeletal or connective tissue disease	inflammatory and immune system	Diseases of the musculoskeletal system and connective tissue
+D003863	Depression	nervous system disease	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D010003	Osteoarthritis	musculoskeletal or connective tissue disease	musculoskeletal	Diseases of the musculoskeletal system and connective tissue
+D000419	Albuminuria	urinary system disease	renal and urogenital	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D001281	Atrial Fibrillation	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D006973	Hypertension	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D006327	Heart Block	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D055623	"Keratosis, Actinic"	cell proliferation disorder	skin	Diseases of the skin and subcutaneous tissue
+D001991	Bronchitis	respiratory or thoracic disease	infection	Diseases of the respiratory system
+D008175	Lung Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D008545	Melanoma	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D008228	"Lymphoma, Non-Hodgkin"	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D002294	"Carcinoma, Squamous Cell"	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D002349	Carpal Tunnel Syndrome	nervous system disease	neurological	Diseases of the nervous system
+D016883	Diabetic Ketoacidosis	pancreas disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D001749	Urinary Bladder Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D007889	Leiomyoma	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D018798	"Anemia, Iron-Deficiency"	blood disorder	blood	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D000380	Agranulocytosis	blood disorder	blood	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D012893	Sleep Wake Disorders	nervous system disease	mental health	Diseases of the nervous system
+D006429	Hemiplegia	nervous system disease	stroke	Diseases of the nervous system
+D011655	Pulmonary Embolism	cardiovascular disease	blood	Diseases of the circulatory system
+D009202	Cardiomyopathies	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D013345	Subarachnoid Hemorrhage	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D002543	Cerebral Hemorrhage	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D002544	Cerebral Infarction	cardiovascular disease	stroke	Diseases of the circulatory system
+D050197	Arteriosclerosis	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D010689	Phlebitis	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D006484	Hemorrhoids	cardiovascular disease	cardiovascular	Diseases of the digestive system
+D007022	Hypotension	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D012852	Sinusitis	respiratory or thoracic disease	infection	Diseases of the respiratory system
+D010996	Pleural Effusion	respiratory or thoracic disease	respiratory	Diseases of the respiratory system
+D011030	Pneumothorax	respiratory or thoracic disease	respiratory	Diseases of the respiratory system
+D014060	Tongue Diseases	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D004941	Esophagitis	gastrointestinal disease	infection	Diseases of the digestive system
+D013276	Stomach Ulcer	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D004415	Dyspepsia	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D002769	Cholelithiasis	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D002764	Cholecystitis	gastrointestinal disease	infection	Diseases of the digestive system
+D010195	Pancreatitis	pancreas disease	infection	Diseases of the digestive system
+D008286	Malabsorption Syndromes	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D002481	Cellulitis	musculoskeletal or connective tissue disease	infection	Diseases of the skin and subcutaneous tissue
+D011537	Pruritus	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D008010	Lichen Planus	integumentary system disease	inflammatory and immune system	Diseases of the skin and subcutaneous tissue
+D017492	"Keratosis, Seborrheic"	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D011704	Pyelonephritis	urinary system disease	infection	Diseases of the genitourinary system
+D058186	Acute Kidney Injury	urinary system disease	renal and urogenital	Diseases of the genitourinary system
+D007676	"Kidney Failure, Chronic"	urinary system disease	renal and urogenital	Diseases of the genitourinary system
+D003556	Cystitis	urinary system disease	infection	Diseases of the genitourinary system
+D011470	Prostatic Hyperplasia	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D011472	Prostatitis	urinary system disease	infection	Diseases of the genitourinary system
+D005348	Fibrocystic Breast Disease	reproductive system or breast disease	other	Diseases of the genitourinary system
+D006177	Gynecomastia	reproductive system or breast disease	metabolic and endocrine	Diseases of the genitourinary system
+D004715	Endometriosis	reproductive system or breast disease	reproductive health and childbirth	Diseases of the genitourinary system
+D003680	Deglutition Disorders	gastrointestinal disease	oral and gastrointestinal	Diseases of the nervous system
+D001201	Ascites	gastrointestinal disease	oral and gastrointestinal	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D005076	Exanthema	integumentary system disease	skin	Certain infectious and parasitic diseases
+D014717	Vertigo	nervous system disease	neurological	Diseases of the eye and adnexa
+D013575	Syncope	nervous system disease	cardiovascular	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D007766	Lacrimal Apparatus Diseases	disease of visual system	eye	"Congenital malformations, deformations, chromosomal abnormalities, and genetic disorders"
+D006471	Gastrointestinal Hemorrhage	gastrointestinal disease	cardiovascular	Diseases of the digestive system
+D010437	Peptic Ulcer	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D005921	Glomerulonephritis	urinary system disease	infection	Diseases of the genitourinary system
+D006333	Heart Failure	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D006547	Hernia	musculoskeletal or connective tissue disease	hernia	Diseases of the digestive system
+D006689	Hodgkin Disease	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D008113	Liver Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D010051	Ovarian Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D011471	Prostatic Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D000647	Amnesia	nervous system disease	neurological	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D007951	"Leukemia, Myeloid"	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D000152	Acne Vulgaris	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D000740	Anemia	blood disorder	blood	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D001064	Appendicitis	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D003248	Constipation	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D015352	Dry Eye Syndromes	disease of visual system	eye	Diseases of the eye and adnexa
+D004381	Duodenal Ulcer	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D015837	Vestibular Diseases	disease of ear	neurological	Diseases of the ear and mastoid process
+D005705	Gallbladder Diseases	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D006073	Gout	musculoskeletal or connective tissue disease	musculoskeletal	Diseases of the musculoskeletal system and connective tissue
+D001145	"Arrhythmias, Cardiac"	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D043183	Irritable Bowel Syndrome	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
+D001851	"Bone Diseases, Metabolic"	musculoskeletal or connective tissue disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D010024	Osteoporosis	musculoskeletal or connective tissue disease	musculoskeletal	Diseases of the musculoskeletal system and connective tissue
+D009443	Neuritis	nervous system disease	infection	Diseases of the eye and adnexa
+D010538	Peritonitis	gastrointestinal disease	infection	Diseases of the digestive system
+D010998	Pleurisy	respiratory or thoracic disease	inflammatory and immune system	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D011565	Psoriasis	integumentary system disease	inflammatory and immune system	Diseases of the respiratory system
+D012163	Retinal Detachment	disease of visual system	eye	Diseases of the eye and adnexa
+D012393	Rosacea	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D006042	Goiter	endocrine system disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D002546	"Ischemic Attack, Transient"	cardiovascular disease	stroke	Diseases of the circulatory system
+D000083242	Ischemic Stroke	nervous system disease	stroke	Diseases of the circulatory system
+D012891	Sleep Apnea Syndromes	respiratory or thoracic disease	respiratory	Diseases of the nervous system
+D013921	Thrombocytopenia	cardiovascular disease	blood	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D015179	Colorectal Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D006627	Hirschsprung Disease	gastrointestinal disease	neurological	"Congenital malformations, deformations, chromosomal abnormalities, and genetic disorders"
+D013964	Thyroid Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D010001	Osteitis Deformans	musculoskeletal or connective tissue disease	musculoskeletal	Diseases of the musculoskeletal system and connective tissue
+D007018	Hypopituitarism	endocrine system disease	metabolic and endocrine	"Endocrine, nutritional and metabolic diseases"
+D020246	Venous Thrombosis	cardiovascular disease	blood	Diseases of the circulatory system
+D000075224	Cardiac Conduction System Disease	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D003731	Dental Caries	musculoskeletal or connective tissue disease	oral and gastrointestinal	Diseases of the digestive system
+D005242	Fecal Incontinence	gastrointestinal disease	oral and gastrointestinal	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D016055	Urinary Retention	urinary system disease	renal and urogenital	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D011141	Polyuria	urinary system disease	renal and urogenital	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+D007762	Labyrinthitis	disease of ear	infection	Diseases of the ear and mastoid process
+D012878	Skin Neoplasms	cell proliferation disorder	cancer and neoplasms	Neoplasms
+D009260	Nail Diseases	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D016491	Peripheral Vascular Diseases	cardiovascular disease	cardiovascular	Diseases of the circulatory system
+D011111	Polymyalgia Rheumatica	musculoskeletal or connective tissue disease	inflammatory and immune system	Diseases of the musculoskeletal system and connective tissue
+D013118	Spinal Cord Diseases	nervous system disease	musculoskeletal	Diseases of the nervous system
+D014581	Urticaria	integumentary system disease	skin	Diseases of the skin and subcutaneous tissue
+D014648	Varicose Veins	cardiovascular disease	blood	Diseases of the circulatory system
+D010031	Otitis	disease of ear	ear	Diseases of the ear and mastoid process
+D019966	Substance-Related Disorders	psychiatric disorder	mental health	"Mental, Behavioral and Neurodevelopmental disorders"
+D015155	"Esophageal Spasm, Diffuse"	gastrointestinal disease	oral and gastrointestinal	Diseases of the digestive system
