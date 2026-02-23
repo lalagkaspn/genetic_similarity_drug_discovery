@@ -15,9 +15,7 @@ This repository contains the data and source code used in the analyses for the a
 
 If you have any questions, please reach out to [panagiotis.lalagkas@gmail.com](mailto:panagiotis.lalagkas@gmail.com)
 
-All analyses were performed in R 4.2.3.
-
-R packages used (CRAN/Bioconductor):
+All analyses were performed in `R 4.2.3`. R packages used (CRAN/Bioconductor):
 - binom: v1.1.1.1
 - biomaRt: v2.54.1
 - data.table: v.1.16.0
