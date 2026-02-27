@@ -7,7 +7,7 @@ This repository contains the data and source code used in all analyses for this 
 - [data](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/data) includes data required to reproduce the analyses. When raw data cannot be publicly shared, we provide either a summary version or processed outputs.
 - [src](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/src) contains all source code for data preparation, model training and evaluation, and figure/table generation.
 - [figures](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/figures) stores all generated figures, both main and supplementary.
-- [results](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/results) includes the predicted drug indications and side effects, as well as results from the direct genetic evidence analysis for our predictions (used for Supplementary Figure 10)
+- [results](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/results) includes the predicted drug indications and side effects, as well as results from the direct genetic evidence analysis for our predictions (used in Supplementary Figure 10)
 - [tables](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/tables) contains two supplementary tables:
     - `Supplementary table 1`: clean list of predicted drug indications
     - `Supplementary table 2`: clean list of predicted drug side effects
