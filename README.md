@@ -9,9 +9,9 @@ This repository contains the data and source code used in all analyses for this 
 - [figures](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/figures) stores all generated figures, both main and supplementary.
 - [results](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/results) includes the predicted drug indications and side effects, as well as results from the direct genetic evidence analysis for our predictions (used in Supplementary Figure 10)
 - [tables](https://github.com/lalagkaspn/genetic_similarity_drug_discovery/tree/main/tables) contains two supplementary tables:
-    - `Supplementary table 1`: clean list of predicted drug indications
-    - `Supplementary table 2`: clean list of predicted drug side effects
-    - Both tables include the predicted probabiliies and the corrresponding known drug indications and side effects whose genetic similarity to the test disease was used for making the prediction.
+    - `Supplementary table 1`: clean list of predicted drug-disease indications
+    - `Supplementary table 2`: clean list of predicted drug-disease side effects
+    - Both tables include the estimated predicted probabiliies and the corrresponding known drug indications or side effects whose genetic similarity to the test disease was used for making the prediction.
 
 If you have any questions, please reach out to [panagiotis.lalagkas@gmail.com](mailto:panagiotis.lalagkas@gmail.com)
 
