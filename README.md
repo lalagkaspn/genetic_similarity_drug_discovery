@@ -15,7 +15,7 @@ This repository contains the data and source code used in all analyses for this 
 
 If you have any questions, please reach out to [panagiotis.lalagkas@gmail.com](mailto:panagiotis.lalagkas@gmail.com)
 
-All analyses were performed in `R 4.2.3`. R packages used (CRAN/Bioconductor):
+All analyses were performed in `R 4.2.3`. STAN models were trained using the R package `rstan: v2.32.7`. Other R packages used (CRAN/Bioconductor):
 - binom: v1.1.1.1
 - biomaRt: v2.54.1
 - data.table: v.1.16.0
@@ -34,7 +34,6 @@ All analyses were performed in `R 4.2.3`. R packages used (CRAN/Bioconductor):
 - parallel: v4.2.3
 - pROC: v1.18.0
 - reshape2: v1.4.4
-- rstan: v2.32.7
 - stringr: v1.5.1
 - tidyr: v1.3.0
 - viridisLite: v0.4.2
